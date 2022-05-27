@@ -3,3 +3,4 @@
 | :---: | --- | :---: | :---: | :---: | :---: | :---: |
 | file| 주민등록인구통계| [cvs](https://jumin.mois.go.kr/index.jsp) | 주민등록인구통계,연령별 인구현황,주민등록 인구 기타현황 | encoding='cp949' | [행정안전부](https://mois.go.kr/) |  |
 |file | 기상관측 | 종관기상관측, |데이터| 작성 | 출처 | 참조 |
+|api | COVID19 | summary, By Country Live |[APIs](https://documenter.getpostman.com/view/10808728/SzS8rjbc)| postman | [sourced from Johns Hopkins](https://covid19api.com/) | 참조 |
