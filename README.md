@@ -1,5 +1,7 @@
 #### with_datasets
-- 공개 데이터셋 공유 목록 : https://kbig.kr/portal/kbig/datacube.page
+- 공개 데이터셋 목록 
+-   https://kbig.kr/portal/kbig/datacube.page
+  - https://zdataset.com/
 
 |종류| 주제 | 주요 항목 |데이터| 작성 | 출처 | 참조 |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: |
