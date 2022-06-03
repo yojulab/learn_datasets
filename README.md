@@ -1,4 +1,6 @@
 #### with_datasets
+- 공개 데이터셋 공유 목록 : https://kbig.kr/portal/kbig/datacube.page
+
 |종류| 주제 | 주요 항목 |데이터| 작성 | 출처 | 참조 |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: |
 | file| 주민등록인구통계| [cvs](https://jumin.mois.go.kr/index.jsp) | 주민등록인구통계,연령별 인구현황,주민등록 인구 기타현황 | encoding='cp949' | [행정안전부](https://mois.go.kr/) |  |
