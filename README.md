@@ -1,7 +1,12 @@
 #### with_datasets
 - 공개 데이터셋 목록 
--   https://kbig.kr/portal/kbig/datacube.page
+  - https://kbig.kr/portal/kbig/datacube.page
   - https://zdataset.com/
+
+- 미지정(./codes)
+  - randombynumpy.ipynb
+  - seaborn_datasets.ipynb
+  - sklearn_dataset.ipynb
 
 |종류| 주제 | 주요 항목 |데이터| 작성 | 출처 | 참조 |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: |
