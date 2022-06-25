@@ -18,6 +18,7 @@
 |file| 상권 정보 | 소상공인시장진흥공단_상가(상권)정보 |[cvs](https://www.data.go.kr/data/15083033/fileData.do)| [ipynb](./codes/전국상가분석.ipynb) | [공공데이터포털](https://www.data.go.kr/) | 참조 |
 |file| 행동예측 | Breathing In-Depth, Wearables in the Wetlab |[uri](https://ubicomp.eti.uni-siegen.de/home/datasets/index.html.en?lang=en)| 작성 | 출처 | 참조 |
 |API| 부동산 실거래가 | 단독/다가구 매매 실거래 자료, 연립다세대 매매 실거래자료, 아파트매매 실거래 자료, 아파트 분양권전매 신고 자료, 오피스텔 매매 신고 조회 서비스, 토지 매매 신고 조회 서비스, 아파트매매 실거래 상세 자료, 상업업무용 부동산 매매 신고 자료 |[api](https://www.data.go.kr/)| 작성 | [공공데이터포털](https://www.data.go.kr/) | 국토교통부 |
+|file?| 말뭉치 | 주요 항목 |데이터| 작성 | [국립어학원](https://corpus.korean.go.kr/) | 국립어학원 |
 
 #### datasets
 MNIST, CIFAR-10, CIFAR-100, STL-10, SVHN, Fashion MNIST
