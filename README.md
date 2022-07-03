@@ -1,9 +1,4 @@
 #### with_datasets
-- 공개 데이터셋 목록 
-  - https://kbig.kr/portal/kbig/datacube.page
-  - https://zdataset.com/
-  - https://bdp.kt.co.kr/ : KT통신 빅데이터 플랫폼(유,무료)
-
 - 미지정(./codes)
   - randombynumpy.ipynb
   - seaborn_datasets.ipynb
