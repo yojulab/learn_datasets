@@ -1,11 +1,13 @@
-#### with_datasets
+### stores
 - [google knowyourdata](https://knowyourdata.withgoogle.com/)
+- [객체검출/분할 등](http://host.robots.ox.ac.uk/pascal/VOC/) : [다운로드 받는 법](https://goodwoong.tistory.com/98)
+
+### datasets
+#### codes
 - 미지정(./codes)
   - randombynumpy.ipynb
   - seaborn_datasets.ipynb
   - sklearn_dataset.ipynb
-
-#### datasets
 MNIST, CIFAR-10, CIFAR-100, STL-10, SVHN, Fashion MNIST
 
 |분류| 제목 |데이터| 요구사항 | 작성 | 출처 | 참조 |
