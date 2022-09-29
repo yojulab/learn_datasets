@@ -1,6 +1,7 @@
 ### stores
 - [google knowyourdata](https://knowyourdata.withgoogle.com/)
-- [객체검출/분할 등](http://host.robots.ox.ac.uk/pascal/VOC/) : [다운로드 받는 법](https://goodwoong.tistory.com/98)
+- [객체검출/분할 20 classes](http://host.robots.ox.ac.uk/pascal/VOC/) : [다운로드 받는 법](https://goodwoong.tistory.com/98)
+- [객체검출/분할 2 class - pets](https://www.robots.ox.ac.uk/~vgg/data/pets/)
 
 ### datasets
 #### codes
