@@ -4,6 +4,7 @@
 - [객체검출/분할 2 class - pets](https://www.robots.ox.ac.uk/~vgg/data/pets/)
 
 ### datasets
+- 법정동코드목록조회 : https://www.code.go.kr/stdcode/regCodeL.do
 #### codes
 - 미지정(./codes)
   - randombynumpy.ipynb
