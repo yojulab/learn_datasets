@@ -1,3 +1,5 @@
+### refer 
+- [youtube - Top 6 Most Popular API Architecture Styles](https://www.youtube.com/watch?v=4vLxWqE94l4&ab_channel=ByteByteGo)
 ### stores
 - [google knowyourdata](https://knowyourdata.withgoogle.com/)
 - [객체검출/분할 20 classes](http://host.robots.ox.ac.uk/pascal/VOC/) : [다운로드 받는 법](https://goodwoong.tistory.com/98)
