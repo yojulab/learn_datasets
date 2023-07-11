@@ -1,12 +1,5 @@
 ### refer 
 - [youtube - Top 6 Most Popular API Architecture Styles](https://www.youtube.com/watch?v=4vLxWqE94l4&ab_channel=ByteByteGo)
-### stores
-- [google knowyourdata](https://knowyourdata.withgoogle.com/)
-- [객체검출/분할 20 classes](http://host.robots.ox.ac.uk/pascal/VOC/) : [다운로드 받는 법](https://goodwoong.tistory.com/98)
-- [객체검출/분할 2 class - pets](https://www.robots.ox.ac.uk/~vgg/data/pets/)
-- [폐영상 공유 - osicild.org](https://www.osicild.org/dr-about.html)
-### 코드
-- 법정동코드목록조회 : https://www.code.go.kr/stdcode/regCodeL.do
 
 #### codes
 - 미지정(./codes)
@@ -17,7 +10,6 @@ MNIST, CIFAR-10, CIFAR-100, STL-10, SVHN, Fashion MNIST
 
 |분류| 제목 |데이터| 요구사항 | 작성 | 출처 | 참조 |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: |
-|API| |openweathermap|[API](https://openweathermap.org/) | | 출처 | |
 |Sample| sklearn datasets|| | [ipynb](./sklearn_dataset.ipynb) | 출처 | [api](https://scikit-learn.org/stable/datasets/toy_dataset.html) |
 |Sample| seaborn datasets|| | [ipynb](./seaborn_datasets.ipynb) | 출처 | [api](https://seaborn.pydata.org/generated/seaborn.load_dataset.html) |
 |Sample| AI hub|[AI hub](https://aihub.or.kr/)| 요구사항 | 분석 | 출처 | 참조 |
